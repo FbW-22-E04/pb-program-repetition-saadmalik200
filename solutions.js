@@ -1,8 +1,8 @@
-// let i = 0;
-// while (i < 15) {
-//   console.log(i);
-//   i++;
-// }
+let i = 0;
+while (i < 15) {
+  console.log(i);
+  i++;
+}
 
 console.log("--------------------------------------");
 
@@ -17,9 +17,9 @@ while (j <= 20) {
 
 //
 
-let i = 0;
+let k = 0;
 
 do {
-  console.log("The number is", i);
-  i++;
-} while (i < 20);
+  console.log("The number is", k);
+  k++;
+} while (k < 20);
